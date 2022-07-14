@@ -23,3 +23,9 @@ elif my_age<=18:
     print(my_age,"Sorry! you have to pass 2nd year degree to admitt in University")
 # else:
 #     print(my_age,"Sorry You are still not young to join university")
+
+
+
+
+
+#Created by Ahmad Wasim Khan
